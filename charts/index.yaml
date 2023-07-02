@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  super-api:
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2023-07-02T07:36:40.9903324-07:00"
+    description: A Helm chart for super-api
+    digest: 146226169bfc061e8e9ec6ace6a2314d0253966c5c5b75990ac7df001ce39386
+    home: https://github.com/gbaeke/super-api
+    keywords:
+    - api
+    - super-api
+    - golang
+    maintainers:
+    - email: me@example.com
+      name: gbaeke
+    name: super-api
+    sources:
+    - https://github.com/gbaeke/super-api
+    type: application
+    urls:
+    - https://ianhong.github.io/ihonghelmrepo/super-api-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-07-02T07:36:40.9885045-07:00"
